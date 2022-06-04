@@ -1,12 +1,12 @@
 # Labs
 
-- Lab 1
+- ##Lab 1
   - Creating first Node.js server-side JavaScrip file
     - link
-- Lab 2
+- ##Lab 2
   - Setting up git repository first time
     - link
-- Lab 3
+- ##Lab 3
   - Practice using more modern syntax, destructuring, arrow function, module.exports
     - link
 - Lab 4
