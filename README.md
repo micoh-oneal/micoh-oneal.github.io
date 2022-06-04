@@ -1,6 +1,6 @@
 # Labs
 
-- Lab 1
+Lab 1
   > Creating first Node.js server-side JavaScrip file
     - link
 - Lab 2
