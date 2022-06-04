@@ -2,7 +2,7 @@
 
 - ## Lab 1
   - Creating first Node.js server-side JavaScrip file
-    - link
+    - [Link](https://micoh-oneal.github.io/cit281-lab1/)
 - ## Lab 2
   - Setting up git repository first time
     - link
